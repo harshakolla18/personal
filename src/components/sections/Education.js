@@ -23,7 +23,7 @@ const Education = () => {
         "Data Structures",
         "Algorithms",
         "Database Systems",
-        "Operating Systems","Computer Networks","Machine Learning"
+        "Operating Systems",
       ],
       achievements: ["Academic Excellence Award", "Dean's List"],
       link: "https://vit.ac.in",
